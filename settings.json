@@ -16,8 +16,9 @@
     100
   ],
   "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "terminal.integrated.fontFamily": "Consolas",
   "terminal.integrated.fontSize": 13,
-  "terminal.integrated.fontWeightBold": "normal",
+  "terminal.integrated.fontWeightBold": "bold",
   "window.menuBarVisibility": "toggle",
   "editor.renderWhitespace": "none",
   "explorer.confirmDragAndDrop": false,
