@@ -1,7 +1,7 @@
 {
   "editor.fontFamily": "Pragmata Pro",
   "editor.fontLigatures": true,
-  "editor.fontSize": 14.5,
+  "editor.fontSize": 14,
   "editor.tabSize": 2,
   "window.zoomLevel": 0,
   "explorer.openEditors.visible": 0,
@@ -12,6 +12,7 @@
   "explorer.confirmDelete": false,
   "files.eol": "\n",
   "editor.formatOnSave": true,
+  "editor.renderIndentGuides": false,
   "editor.rulers": [
     100
   ],
@@ -26,8 +27,6 @@
   "workbench.colorTheme": "Verdandi",
   "search.location": "panel",
   "prettier.eslintIntegration": true,
-  "material-icon-theme.hidesExplorerArrows": true,
-  "material-icon-theme.activeIconPack": "react_redux",
   "bracketPairColorizer.colorMode": "Consecutive",
   "bracketPairColorizer.consecutivePairColors": [
     "()",
@@ -40,6 +39,9 @@
     ],
     "Red"
   ],
+  "workbench.colorCustomizations": {
+    "editorLineNumber.foreground": "#DFDFDF"
+  },
   "editor.tokenColorCustomizations": {
     "[Verdandi]": {
       "textMateRules": [
