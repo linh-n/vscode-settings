@@ -1,0 +1,60 @@
+{
+  "editor.fontFamily": "Pragmata Pro",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14.5,
+  "editor.tabSize": 2,
+  "window.zoomLevel": 0,
+  "explorer.openEditors.visible": 0,
+  "typescript.check.npmIsInstalled": false,
+  "workbench.iconTheme": "verdandi",
+  "extensions.ignoreRecommendations": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "explorer.confirmDelete": false,
+  "files.eol": "\n",
+  "editor.formatOnSave": true,
+  "editor.rulers": [
+    100
+  ],
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.fontWeightBold": "normal",
+  "window.menuBarVisibility": "toggle",
+  "editor.renderWhitespace": "none",
+  "explorer.confirmDragAndDrop": false,
+  "files.autoSave": "off",
+  "workbench.colorTheme": "Verdandi",
+  "search.location": "panel",
+  "prettier.eslintIntegration": true,
+  "material-icon-theme.hidesExplorerArrows": true,
+  "material-icon-theme.activeIconPack": "react_redux",
+  "bracketPairColorizer.colorMode": "Consecutive",
+  "bracketPairColorizer.consecutivePairColors": [
+    "()",
+    "[]",
+    "{}",
+    [
+      "#333333",
+      "#1f286d",
+      "#386d20",
+    ],
+    "Red"
+  ],
+  "editor.tokenColorCustomizations": {
+    "[Verdandi]": {
+      "textMateRules": [
+        {
+          "scope": [
+            "support.class",
+          ],
+          "settings": {
+            "fontStyle": "bold",
+            "foreground": "#212529"
+          }
+        },
+      ],
+    }
+  },
+  "importCost.smallPackageColor": "#AAAAAA",
+  "importCost.mediumPackageColor": "#FFD700",
+  "importCost.largePackageColor": "#FF0000",
+}
